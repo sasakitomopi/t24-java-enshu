@@ -7,6 +7,6 @@ public class Main {
         break;
       }
     }
-    System.out.println("処理を終了しました。");
+    System.out.println("処理を終了しました");
   }
 }
